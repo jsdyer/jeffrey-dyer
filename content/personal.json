@@ -1,0 +1,77 @@
+{
+  "title": "Jeffrey Dyer — Code, curiosity & the long way around",
+  "description": "The personal corner of Jeffrey Dyer: independent development, cycling, exploration, photography, and an open, curious web.",
+  "projects": [
+    {
+      "title": "CoolCode",
+      "category": "Self-hosting",
+      "status": "Source available",
+      "description": "The main workbench: small tools for Linux, home labs, self-hosting, and keeping an independent web.",
+      "stack": "PHP · Python · Go · Linux",
+      "url": "https://coolcode.ca/",
+      "source": "https://github.com/jsdyer/jsdyer.github.io",
+      "symbol": "~/",
+      "feature": true
+    },
+    {
+      "title": "Timefold",
+      "category": "Archiving",
+      "status": "Source available",
+      "description": "A private time machine for photographs, notes, game saves, and the fragments worth keeping.",
+      "stack": "PHP · MariaDB / SQLite",
+      "url": "https://github.com/jsdyer/jsdyer.github.io/tree/main/tools/timefold",
+      "source": "https://github.com/jsdyer/jsdyer.github.io/tree/main/tools/timefold",
+      "symbol": "◷"
+    },
+    {
+      "title": "Archive Shelf",
+      "category": "Archiving",
+      "status": "Source available",
+      "description": "Search newsletters and meeting minutes, then jump to the exact page in the original document.",
+      "stack": "Python · SQLite FTS5",
+      "url": "https://coolcode.ca/archive-shelf/",
+      "source": "https://github.com/jsdyer/jsdyer.github.io/tree/main/tools/archive-shelf",
+      "symbol": "▤"
+    }
+  ],
+  "notes": [
+    {
+      "slug": "the-long-way-around",
+      "title": "The long way around.",
+      "category": "ON TWO WHEELS",
+      "date": "2026-11-12",
+      "summary": "Rail trails, quieter roads, and the freedom to follow a promising turn.",
+      "paragraphs": [
+        "Cycling is one of my favourite ways to explore. A long trail changes the pace of a place: there is time to notice a bridge, a shoreline, or a little side road that would disappear through a car window.",
+        "The BLT trail toward Hubbards and the Confederation Trail on Prince Edward Island are part of that interest. Here in British Columbia, there is always another route to connect.",
+        "This section is a place for future ride notes, photographs, and things worth returning to. I am more interested in what a route feels like than in turning every outing into a performance chart."
+      ]
+    },
+    {
+      "slug": "between-places",
+      "title": "The interesting bits in between.",
+      "category": "LOOKING CLOSER",
+      "date": "2026-11-12",
+      "summary": "Quiet corridors, reflections, old infrastructure, and the scenes most people walk past.",
+      "paragraphs": [
+        "I am drawn to the atmosphere of in-between places: a quiet public corridor, a building after the crowds have gone, a reflection that makes a familiar street feel unfamiliar.",
+        "Photography gives that curiosity somewhere to go. Sometimes the interesting part is the light; sometimes it is a composition that takes a second look to understand. Polaroids, older formats, and simple in-camera experiments all fit that way of seeing.",
+        "Urban exploration, for me, starts with attention and respect for a place. There is plenty to find from public streets and permitted spaces without publishing sensitive locations or crossing a boundary.",
+        "This will grow into a collection of observations and photographs. For now, it is an invitation to look a little longer."
+      ]
+    },
+    {
+      "slug": "a-web-worth-keeping",
+      "title": "A web worth keeping.",
+      "category": "OFFLINE / ONLINE",
+      "date": "2026-11-12",
+      "summary": "Personal websites, community networks, and the pleasure of making something small.",
+      "paragraphs": [
+        "The part of the internet I enjoy most feels made by people. A personal homepage, a useful little script, a local community network, or an email exchange can have more character than a polished feed.",
+        "That is why I keep coming back to Linux, self-hosting, and the indie web. They make it possible to understand the tools I use and to build a corner that behaves the way I want.",
+        "The same curiosity connects computers with exploration: follow a path, find out how a thing works, leave a useful note for the next person.",
+        "The workshop holds the technical details. This site holds the wider picture: what I am making, what catches my eye, and the places the curiosity leads."
+      ]
+    }
+  ]
+}

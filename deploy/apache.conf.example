@@ -1,0 +1,13 @@
+# Configure TLS certificates using your normal server process before public launch.
+<VirtualHost *:80>
+    ServerName jeffreydyer.ca
+    ServerAlias www.jeffreydyer.ca
+    DocumentRoot /srv/jeffrey-dyer/public
+    <Directory /srv/jeffrey-dyer/public>
+        Options -Indexes
+        AllowOverride FileInfo Options Indexes
+        Require all granted
+    </Directory>
+    # Add your existing PHP-FPM handler here, or use your configured mod_php.
+</VirtualHost>
+# Redirect any additional personal domains to https://jeffreydyer.ca/.
