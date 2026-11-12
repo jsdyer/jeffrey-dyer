@@ -1,6 +1,6 @@
 {
-  "title": "Jeffrey Dyer — Code, curiosity & the long way around",
-  "description": "The personal corner of Jeffrey Dyer: independent development, cycling, exploration, photography, and an open, curious web.",
+  "title": "Jeffrey Dyer — Curiosity, after hours",
+  "description": "Code, cameras, circuits, and the long way home. Photography, maker experiments, cycling, and field notes from Jeffrey Dyer in British Columbia.",
   "projects": [
     {
       "title": "CoolCode",
@@ -72,6 +72,59 @@
         "The same curiosity connects computers with exploration: follow a path, find out how a thing works, leave a useful note for the next person.",
         "The workshop holds the technical details. This site holds the wider picture: what I am making, what catches my eye, and the places the curiosity leads."
       ]
+    },
+    {
+      "slug": "from-code-to-circuits",
+      "title": "When code leaves the screen.",
+      "category": "MAKER / HOBBY ELECTRONICS",
+      "date": "2026-11-12",
+      "summary": "A place for breadboards, small sensors, and the physical side of making things.",
+      "paragraphs": [
+        "Hobby electronics belongs alongside the software projects here. There is something satisfying about a program becoming a light, a reading, a button, or a small display you can pick up.",
+        "The ideas on the maker bench are starting points, not completed builds: a useful room sensor, a quiet desk display, and a little more control over the light in a tabletop photograph.",
+        "I want this notebook to keep the parts that are easy to forget: the wiring that changed, the enclosure that almost fitted, the photograph that explained a problem better than a paragraph.",
+        "For now, these are directions to explore. As a build takes shape, this is where the notes, photographs, and source can come together."
+      ]
+    }
+  ],
+  "collections": [
+    {
+      "title": "Between places",
+      "label": "ARCHITECTURE & ABSENCE",
+      "image": "night-study.svg",
+      "alt": "Illustrated empty passage with a faraway amber doorway and blue light on the floor",
+      "description": "Quiet corridors, empty public spaces, old infrastructure, and the atmosphere left behind when the crowd is gone. This is an illustrated study for a future photography collection."
+    },
+    {
+      "title": "A second look",
+      "label": "REFLECTIONS & ILLUSIONS",
+      "image": "reflection-study.svg",
+      "alt": "Illustrated amber and violet city lights reflected in dark water",
+      "description": "Reflections, shadow, unusual framing, and in-camera illusions. Ordinary scenes that become less ordinary when you look again. This is an illustrated study for a future photography collection."
+    },
+    {
+      "title": "The long way home",
+      "label": "TRAILS & DETOURS",
+      "image": "trail-study.svg",
+      "alt": "Illustrated winding trail beneath a dark blue sky and distant mountains",
+      "description": "Coastal paths, rail trails, bicycle detours, and the light at the end of a long afternoon. This is an illustrated study for a future photography collection."
+    }
+  ],
+  "maker_ideas": [
+    {
+      "title": "A little room sensor",
+      "description": "One useful reading, a low-voltage microcontroller, and a small local history.",
+      "first_step": "Start with a breadboard and a temperature/humidity sensor. Label the wiring, photograph each revision, and record stale readings as carefully as fresh ones. A concept for a future build."
+    },
+    {
+      "title": "A quiet desk display",
+      "description": "An e-paper display for a few things worth glancing at, without another glowing screen.",
+      "first_step": "Try a local clock or a single home-lab status first. Explore update intervals, readable typography, a simple enclosure, and what should remain visible when the network is unavailable. A concept for a future build."
+    },
+    {
+      "title": "Light for small things",
+      "description": "A low-voltage tabletop lighting experiment for close-up photographs and shadow studies.",
+      "first_step": "Begin with a ready-made USB-powered light, diffusion material, and a repeatable setup. Explore how angle and distance change the picture before designing any controller. A concept for a future build."
     }
   ]
 }
